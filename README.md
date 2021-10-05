@@ -3,11 +3,6 @@ Coffee & Coding: bigrquery Low-level API
 #### Tamsin Forbes
 #### 03/04/2019
 
-## Download subfolder
-
-If you don't want to clone the entire Coffee & Coding repo you can use this link (created using [DownGit](https://minhaskamal.github.io/DownGit/#/home)) to download just the ___bigrquery Low-level API___ subfolder,
-
-[download bigrquery subfolder](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/departmentfortransport/coffee-and-coding/tree/master/All_materials/20190403_bigrquery)
 
 ## Disclaimer
 
